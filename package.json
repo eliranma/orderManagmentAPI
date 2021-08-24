@@ -1,0 +1,14 @@
+{
+  "name": "order-management-api",
+  "version": "1.0.0",
+  "description": "API to fetch orders from POS to mobile",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^8.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
